@@ -6,7 +6,9 @@
 
 *Generated image will be 'generated_image.png'
 
+*Documentations at Doc folder
+
 ## Sample:
 
 *Prompt: 'a photo of an astronaut riding a horse on mars'
-*Output: 'generated_image.png' in this repository
+*Output: Doc/'generated_image.png'
