@@ -11,4 +11,5 @@
 ## Sample:
 
 *Prompt: 'a photo of an astronaut riding a horse on mars'
+
 *Output: Doc/'generated_image.png'
