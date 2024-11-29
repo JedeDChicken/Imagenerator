@@ -13,3 +13,6 @@
 *Prompt: 'a photo of an astronaut riding a horse on mars'
 
 *Output: Doc/'generated_image.png'
+
+*Acknowledgements- 
+1. Nicholas Renotte- https://youtu.be/7xc0Fs3fpCg
