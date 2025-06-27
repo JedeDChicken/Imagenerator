@@ -1,5 +1,7 @@
 # Text-to-Image App powered by Stable-Diffusion-2-1
 
+*This app is powered by Stable Diffusion 2.1 by StabilityAI and it generates a unique image given a user prompt. The image is then saved as 'generated_image.png' to the same directory as the .py script.
+
 *Stable Diffusion 2.1- https://huggingface.co/stabilityai/stable-diffusion-2-1
 
 *Run the .py script, enter a prompt, click generate
